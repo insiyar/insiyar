@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Insiya Rizvi
+# 👋 Hi, I’m Insiya Rizvi
 - 🎓 I'm a second year Computer Science Enginering student specialising in AI/ML.
 - 🌱 I’m currently learning Python. 
 

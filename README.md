@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Insiya Rizvi
 - 🎓 I'm a second year Computer Science Enginering student specialising in AI/ML.
-- 🌱 I’m currently learning Python. 
-– 👩🏻‍💻 Familiar with Java and C. 
+- 🌱 I’m currently learning Python.
+- 👩🏻‍💻 Familiar with Java and C. 
 
 <!---
 insiyar/insiyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
